@@ -5,7 +5,7 @@
  to forecast the on-time performance of Australian domestic airlines in June 2024. In this study, ARIMA
  and VAR models are applied to predict three significant variables: On Time Departures rate (%), On
  Time Arrivals rate (%) and Cancellations rate (%).
-# Tools used
+## Tools used
 - For visualization: Power BI
 - For forecasting: Time series forecasting methods (ARIMA and VAR) in Orange
 - For presentation: Canva
